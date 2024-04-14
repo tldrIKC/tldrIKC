@@ -1,11 +1,22 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+##首先进行中文国际化
 
 # Site
-title: tldrIKC‘s Blog   ##网站标题
-subtitle: 'Some records of my coding and life '  ##网站副标题
-description: ' Welcome to my blog! '  ##网站描述
+title: tldrIKC 的博客   ##网站标题
+subtitle: '一些关于我生活与学习的记录'  ##网站副标题
+description: |
+        你好，欢迎来到我的博客。我是tldr。
+        
+        本科毕业于南京师范大学计算机专业，现在硕士就读于重庆大学计算机学院。
+        
+        我曾经在一家从事LED控制系统的公司担任过一年的CPP软件开发工程师。
+        
+        我目前感兴趣的方向有linux操作系统、存储、Qt等等。
+        
+        本博客用于记录我生活中的一些感悟、工作学习笔记等。
+
 keywords: 'OS' #
 author: tldrIKC
 language: zh-CN
